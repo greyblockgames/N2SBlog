@@ -25,7 +25,8 @@ minimal_mistakes_skin: dark
 search: true
 locale: "en-US"
 
-url: "https://n2s.greyblockgames.com"
+url: "https://greyblockgames.com"
+baseurl: "/N2SBlog"
 repository: "greyblockgames/N2SBlog"
 
 logo: "/assets/images/88x88.png"

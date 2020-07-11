@@ -1,6 +1,6 @@
 ---
 title: "Welcome to our new blog!"
-date: 2019-04-18T15:34:30-04:00
+date: 2020-07-10T20:00:00-04:00
 categories:
   - blog
 tags:
